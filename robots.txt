@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://longsang01.github.io/
+
+# Sitemaps
+Sitemap: https://longsang01.github.io/sitemap.xml
