@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/221ce6682042a4f8.css","style"]
 :HL["/_next/static/chunks/edd7746d5fcbb9b1.css","style"]
 :HL["/favicon.ico","image"]
-0:{"buildId":"ov7rqVNsxEGIYmRf2EVse","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"mdxPath","paramType":"oc","paramKey":"XiaoMi_R3G_With_Unicom","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"EzDYBvg0bT4yvuY5Dh9Jr","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"mdxPath","paramType":"oc","paramKey":"XiaoMi_R3G_With_Unicom","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
