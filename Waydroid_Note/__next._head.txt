@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
-3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+2:I[97367,["/_next/static/chunks/0x.~j7vy9ohz0.js","/_next/static/chunks/12zbtvc9bl._b.js","/_next/static/chunks/02-711bb~x9qt.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0xxddco3sqq4m.js"],"ViewportBoundary"]
+3:I[97367,["/_next/static/chunks/0x.~j7vy9ohz0.js","/_next/static/chunks/12zbtvc9bl._b.js","/_next/static/chunks/02-711bb~x9qt.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0xxddco3sqq4m.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"Q18ISqxSlUwe-yVliBfKz","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Waydroid 笔记 | LongSang01"}]]}]}]}],null]}],"loading":null,"isPartial":false}
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Waydroid 笔记 | LongSang01"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"c0GSyc4eblnW3Z44E4Rye"}
