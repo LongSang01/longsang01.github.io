@@ -1,4 +1,6 @@
 :HL["/_next/static/chunks/2xdxvesoqq_er.css","style"]
 :HL["/_next/static/chunks/2a675r6tu5s7v.css","style"]
 :HL["/favicon.ico","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"mdxPath","param":{"type":"oc","key":"2025/HelloWorld","siblings":[]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"haQ1k7L2NSDKXZpCpBdRJ"}
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"mdxPath","t":"oc","k":"2025/HelloWorld","s":[]},"h":64,"c":"$Q2"}]]
+0:{"b":"hpNTiWPc2jDmiiZFbjzRP","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
